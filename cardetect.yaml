@@ -1,0 +1,12 @@
+
+
+
+train: C:\Users\pawko\PycharmProjects\biai\images\train2017  
+val: C:\Users\pawko\PycharmProjects\biai\images\val2017  
+
+
+# Classes
+nc: 1  # number of classes
+names: ['car']  # class names
+
+
